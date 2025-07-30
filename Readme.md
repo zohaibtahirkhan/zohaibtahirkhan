@@ -21,7 +21,7 @@ I'm an **AI Engineer** passionate about leveraging data and machine learning to 
 - **Tailored Chatbots:** Built domain-specific conversational agents for support and automation
 - **Recommendation Engines:** Designed scalable systems for personalized content and product suggestions
 - **Predictive Models:** Created time series forecasting, classification, and regression solutions
-- **Object Detection and Tracking** Created object tracking model by implementing Kalman Filter
+- **Object Detection and Tracking:** Created object tracking model by implementing Kalman Filter
 
 ---
 
